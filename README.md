@@ -31,7 +31,7 @@ Nele utilizamos `regex` para fazer a formatação e validação dos nossos input
     $ yarn start
 ```
 
----
+## Créditos
 
 <p align="center">
    <a href="https://twitter.com/danieleleao"> <img src="public/twitter.png" width="200"></a>
